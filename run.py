@@ -11,6 +11,6 @@ if __name__ == "__main__":
 	os.system("mkdir Live")
 	os.system("mkdir Chek")
 	if "Indonesia" == fc:
-		__import__("SRBRUTE").menu()
+		__import__("Simple").menu()
 	else:
-		__import__("SRBRUTE").menu()
+		__import__("Simple").menu()
