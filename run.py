@@ -13,4 +13,5 @@ if __name__ == "__main__":
 	if "Indonesia" == fc:
 		__import__("Simple").menu()
 	else:
-		__import__("Simple").menu()
+		print("[*] tools ini hanya support/berlaku di indonesia")
+		exit()
