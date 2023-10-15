@@ -5,7 +5,7 @@
  $ pkg install python git
  $ pip install requests bs4 futures
  $ pip install rich
- $ git clone https://github.com/soeryanambelas/SRBRUTE
+ $ git clone https://github.com/soeryanambelas/EasyBrute
  ```
 
 ###### Run Script
