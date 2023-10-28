@@ -11,7 +11,7 @@
 ###### Run Script
 
 ```
- $ cd SRBRUTE
+ $ cd EasyBrute
  $ git pull
  $ python run.py
 ```
