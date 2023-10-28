@@ -11,7 +11,7 @@ if __name__ == "__main__":
 	os.system("mkdir Live")
 	os.system("mkdir Chek")
 	if "Indonesia" == fc:
-		__import__("Simple").menu()
+		__import__("Simple").cek_key()
 	else:
 		print("[*] tools ini hanya support/berlaku di indonesia.")
 		exit()
