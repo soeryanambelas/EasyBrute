@@ -5,6 +5,8 @@
  $ pkg install python git
  $ pip install requests bs4 futures
  $ pip install rich
+ $ termux-setup-storage
+   enter pilih y
  $ git clone https://github.com/soeryanambelas/EasyBrute
  ```
 
